@@ -6,7 +6,7 @@
 
 <body>
 
-<h2>Metro Ticket Booking</h2>
+<h2>Metro Ticket reservation</h2>
 
 <form>
 
