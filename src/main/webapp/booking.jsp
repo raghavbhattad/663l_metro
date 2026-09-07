@@ -6,7 +6,9 @@
 
 <body>
 
-<h2>Metro Ticket B</h2>
+<<<<<<< HEAD
+=======
+>>>>>>> main
 
 <form>
 
